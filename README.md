@@ -12,7 +12,8 @@ To run this project locally, follow these steps:
 
 1. Ensure Python is installed on your machine.
 2. Clone this repository
-   ``` git clone https://github.com/SinaKeyhani/Customer_satisfaction_analysis/tree/main
+   ```
+    git clone https://github.com/SinaKeyhani/Customer_satisfaction_analysis/tree/main
    ```
 3. Install the required Python libraries for this project.
 
@@ -40,10 +41,8 @@ To run this project locally, follow these steps:
 * Loyalty Programme Impact: Members report higher satisfaction with product quality and service but lower satisfaction with website usability compared to non-members.
 * NPS Results: An NPS of -100 reflects severe dissatisfaction and underscores the need for significant improvements in service.
 
-![Webp net-resizeimage](https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png)
-
 <p align="center">
-<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png" alt="Project Image" width="600" height="800"/>
+<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png" alt="Project Image" width="700" height="800"/>
 </p>
 
 ## Conclusion 
