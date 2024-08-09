@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 * NPS Results: An NPS of -100 reflects severe dissatisfaction and underscores the need for significant improvements in service.
 
 <p align="center">
-<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png" alt="Project Image" width="700" height="800"/>
+<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png" alt="Project Image" width="400" height="600"/>
 </p>
 
 ## Conclusion 
