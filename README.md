@@ -1,6 +1,8 @@
 # Customer satisfaction analysis
 
+<p align="center">
 <img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/word-image-79656-1.png" alt="Project Image" width="400" height="200"/>
+</p>
 
 ## Project Overview
 The aim of this project is to analyze customer satisfaction data for an independent online shop to identify key drivers and areas for improvement. By exploring and interpreting customer feedback, businesses can enhance their products, services, and overall customer experience.
@@ -9,7 +11,9 @@ The aim of this project is to analyze customer satisfaction data for an independ
 To run this project locally, follow these steps:
 
 1. Ensure Python is installed on your machine.
-2. Clone this repository or download the project files.
+2. Clone this repository
+   ``` git clone https://github.com/SinaKeyhani/Customer_satisfaction_analysis/tree/main
+   ```
 3. Install the required Python libraries for this project.
 
 ### Key Features:
@@ -25,8 +29,9 @@ To run this project locally, follow these steps:
 * Ratings: Product and service ratings average 3 out of 5, indicating moderate satisfaction.
 * Return Rate: The average return rate is 25%, peaking at 50% for some.
 * Discount Usage: Customers use an average of $251 in discounts, with considerable variation.
-![Webp net-resizeimage](https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output_1.png)
-
+<p align="center">
+<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output_1.png" alt="Project Image" width="600" height="800"/>
+</p>
 
 ## Key Findings:
 * Age Trends: Dissatisfaction peaks at ages 30-40 and 50-60.
@@ -36,6 +41,10 @@ To run this project locally, follow these steps:
 * NPS Results: An NPS of -100 reflects severe dissatisfaction and underscores the need for significant improvements in service.
 
 ![Webp net-resizeimage](https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png)
+
+<p align="center">
+<img src="https://github.com/SinaKeyhani/Customer_satisfaction_analysis/blob/main/output.png" alt="Project Image" width="600" height="800"/>
+</p>
 
 ## Conclusion 
 This project offers a comprehensive framework for understanding and enhancing customer satisfaction. By conducting a detailed analysis of customer feedback, it reveals actionable insights into trends of dissatisfaction across various demographics and behaviours. Key findings identify critical areas for improvement, such as age-related dissatisfaction peaks and the need to enhance service quality and website usability.
